@@ -1,5 +1,5 @@
 body{
-    display:block;
+    
     margin:8px;
     text-align:center;
     
@@ -53,4 +53,27 @@ p{
     
 #las{
     display:none;
+}
+
+#tm{
+    display:none;
+    }
+    
+#md{
+    display:none;
+}
+
+#md4{
+    display:none;
+    }
+    
+/*#reload1{*/
+/*    display:flex;*/
+/*    justify-content:center;*/
+    
+/*    }*/
+#reload{
+    
+    display:none;
+   
 }
