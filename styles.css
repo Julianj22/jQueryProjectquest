@@ -1,0 +1,56 @@
+body{
+    display:block;
+    margin:8px;
+    text-align:center;
+    
+    }
+    
+#button{
+    margin:10px;
+    
+    }
+
+.glyph2{
+    display:none;
+}
+#house{
+    height:300px;
+    }
+    
+#awakening{
+    display:none;
+    
+    }
+    
+p{
+    display:none;
+
+}
+#john{
+    display:none;
+    width:500px;
+    }
+    
+#gm{
+    display:none;
+}
+
+.glyph{
+    display:none;
+    
+    }
+
+
+    
+@keyframes blink {
+    from{background-color:gray;}
+    to {background-color:red;}
+}
+
+#parents{
+    display:none;
+    }
+    
+#las{
+    display:none;
+}
